@@ -8,6 +8,8 @@ Mini project assesment
 #### Microservice menggunakan eureka server
 #### Database online menggunakan db4free.net
 
+## Dimohon untuk lakukan mvn clean & mvn verify, sebelum dijalankan
+
 ## Project ini mengenai simple Restful API untuk sebuah kelas Bimbel dimana setiap murid dapat memilih guru sesuai ketersediaan
 ## Tersusun dari 3 module
 -- Discovery Service
